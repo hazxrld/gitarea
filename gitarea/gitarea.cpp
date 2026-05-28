@@ -1,7 +1,6 @@
 #include <iostream>
-//primer ejemplo hola mundo en c++
-
-int main()
+ //hola mundo segundo commit
+int main () 
 {
     std::cout << "Hola, mundo";
     return 0;
